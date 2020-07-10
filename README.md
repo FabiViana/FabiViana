@@ -7,6 +7,7 @@
   <li>📝 I’m currently learning JavaScript| ReactJs ....</li>
   <li>🚴🏻‍♀️ Fixed girl</li>
    <li>☕️ Nothing like good coffee and sitting in good coffee shops</li>
+  <li>🤖 Technologies ReactJs, Angular, Node....
  </ul>
 
 
