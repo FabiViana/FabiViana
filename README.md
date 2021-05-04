@@ -6,8 +6,7 @@
   <li>💻 I’m trying to be Frontend Developer at ReclameAQUI </li>
   <li>📝 I’m currently learning JavaScript|TypeScript| React.JS| Vue.JS| Angular</li>
   <li>🚴🏻‍♀️ Fixed girl</li>
-   <li>☕️ Nothing like good coffee and sitting in good coffee shops</li>
-  <li>🤖 Technologies ReactJs,Vue.JS, Angular.
+   <li>☕️ Nothing like a good coffee </li>
  </ul>
 
 
