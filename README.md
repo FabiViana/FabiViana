@@ -3,7 +3,7 @@
 **FabiViana/FabiViana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <ul>
-  <li>💻 I’m trying to be Frontend Developer at ReclameAQUI </li>
+  <li>💻 Frontend Developer at ReclameAQUI </li>
   <li>📝 I’m currently learning JavaScript|TypeScript| React.JS| Vue.JS| Angular</li>
   <li>🚴🏻‍♀️ Fixed girl</li>
    <li>☕️ Nothing like a good coffee </li>
